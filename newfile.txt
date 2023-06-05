@@ -1,5 +1,0 @@
-This is a new file.
-This line is for another commit, ok chill out.
-Ok just kidding, this may all go in one commit.
-This is line four and it's new text. 
-Can this be changed? s
