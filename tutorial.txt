@@ -1,4 +1,5 @@
 Git reset + current commit unstages changes
 Git reset + current commit --hard reverts back and deletes all work after that commit
-
 Git revert + the commit AFTER the commit you want to go back to, is what you want to do to go back. 
+
+$$ View commits on one line: git log --pretty=oneline
